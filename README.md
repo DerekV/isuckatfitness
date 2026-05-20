@@ -14,6 +14,15 @@ Failing, learning, trying things, having setbacks, working hard, not giving up, 
 And trying to communicate things I've learned, or think I've learned, along the way.
 
 
+About the name
+--------------
+
+* fighty my own perfectionist tendencies
+* reliquish any claim to authority
+* a bit of fun self deprication without self loathing
+* inclusivity
+* invitation for conversation, debate, curiosity, learning
+
 Probable future postings:
 -------------------------
 
