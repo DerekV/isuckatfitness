@@ -3,9 +3,6 @@ layout: home
 title: I Suck at Fitness
 ---
 
-About
-=====
-
 I am not a guru, I don't have the ultimate secret to lifelong fitness and how to get abs.
 
 I'm overweight, out of shape, never been athletic.  But I consider myself an athlete.  Because everyone is an athlete.
