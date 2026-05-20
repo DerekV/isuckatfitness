@@ -1,7 +1,7 @@
 
 
-I suck at fitness..
-====================
+About
+=====
 
 I am not a guru, I don't have the ultimate secret to lifelong fitness and how to get abs.
 
@@ -14,8 +14,8 @@ Failing, learning, trying things, having setbacks, working hard, not giving up, 
 And trying to communicate things I've learned, or think I've learned, along the way.
 
 
-About the name
---------------
+Why the name?
+-------------
 
 * fight my own perfectionist tendencies
 * relinquish any claim to authority
