@@ -1,4 +1,7 @@
-
+---
+layout: home
+title: I Suck at Fitness
+---
 
 About
 =====
