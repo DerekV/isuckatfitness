@@ -3,16 +3,15 @@
 I suck at fitness..
 ====================
 
-This site  about getting really, really nerdy and excited about fitness, and failing.
+I am not a guru, I don't have the ultimate secret to lifelong fitness and how to get abs.
 
-It's about working hard and still failing.
+I'm overweight, out of shape, never been athletic.  But I consider myself an athelete.  Because everyone is an athelete.
 
-It's about failing, and not giving up.
+This site  about getting really, really nerdy and excited about fitness.
 
-It's about having fun, learning, and still beleiving in myself.
+Failing, learning, trying things, having setbacks, working hard, not giving up, having fun.
 
-And trying to communicate things I've learned, or think I've learned, along the way.  And probably failing. But then learning and doing better. And having fun.
-
+And trying to communicate things I've learned, or think I've learned, along the way.
 
 
 Probable future postings:
