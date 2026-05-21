@@ -3,4 +3,14 @@ title: I Suck at Fitness
 description:  Fitness nerdom from one non-elite athelete
 show_downloads: false
 # google_analytics:
-theme: minima
+#theme: minima
+remote_theme: no-style-please
+
+
+# no-style-please theme options
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+  lowercase_titles: true # show titles in lowercase in lists
